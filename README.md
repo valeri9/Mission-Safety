@@ -4,18 +4,6 @@ Mission: Safety is a 3D educational game that teaches road-safety rules through 
 
 ---
 
-## Download Demo
-
-Full playable builds (~10 GB each) are hosted externally:
-
-- **itch.io** (recommended):  
-  https://youritchiousername.itch.io/mission-safety-demo
-
-- **Google Drive**:  
-  https://bit.ly/mission-safety-demo
-
----
-
 ## Watch a Quick Demo
 
 ![Gameplay Demo](assets/demo-video.gif)
@@ -25,7 +13,7 @@ Full playable builds (~10 GB each) are hosted externally:
 ## Documentation
 
 Full technical documentation (≈50 pages):  
-[docs/MissionSafety_Documentation.pdf](docs/MissionSafety_Documentation.pdf)
+[docs/MissionSafety_Documentation.pdf]([docs/MissionSafety_Documentation.pdf](https://docs.google.com/document/d/1mjjLbSELvMebWN21e17Q4u-vLyeRMVRQFy38hW1t4Ps/edit?usp=sharing))
 
 ---
 
