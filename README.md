@@ -12,8 +12,12 @@ Mission: Safety is a 3D educational game that teaches road-safety rules through 
 
 ## Documentation
 
-Full technical documentation (≈50 pages):  
+Full technical documentation
+(Bulgarian):  
 https://docs.google.com/document/d/1mjjLbSELvMebWN21e17Q4u-vLyeRMVRQFy38hW1t4Ps/edit?usp=sharing
+
+(English)
+https://docs.google.com/document/d/1kf8HPK0Ftcs9icSU5GowBIyxl7ar3zceTFu1bAgU3pU/edit?usp=sharing
 
 ---
 
