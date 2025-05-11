@@ -6,7 +6,7 @@ Mission: Safety is a 3D educational game that teaches road-safety rules through 
 
 ## Watch a Quick Demo
 
-![Gameplay Demo](assets/demo-video.gif)
+![Gameplay Demo](https://youtu.be/bZZg1TNmbMQ)
 
 ---
 
